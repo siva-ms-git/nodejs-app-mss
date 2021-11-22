@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.233.199.210:8081/repository/siva-npm/"
+    "registry": "http://35.154.92.159:8081/repository/siva-npm/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
